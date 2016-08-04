@@ -1,3 +1,5 @@
-# PracticeExam1
+# Question and Answers
 
-This is the exam practice
+## User can write questions and answers for that
+
+Used Technology: MongoDB, AngularJS, Express, Node.JS
